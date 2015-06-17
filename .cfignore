@@ -1,0 +1,6 @@
+.git
+.gitignore
+manifest.yml
+README.md
+LICENSE.txt
+*.sublime*
